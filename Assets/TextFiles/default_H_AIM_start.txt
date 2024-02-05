@@ -1,0 +1,403 @@
+200 0 5 1
+l l l l l l l l l l l l l l l u u u u u u u u u u u u u u u u
+201 5 5 1
+l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+320 8 8 1
+d d d d d d d d d d d d d d s s s s s s d d d d d d d d d d d d d d d d d d d d d d
+321 11 8 1
+d d d d d d d d d d d d d s s s s d d d d d d d d d d d d d d d d d d d d d d d
+360 11 11 0
+r r r r r r r r r r r r r r s s s s s s s s s s s r d d d d d d d d d d d d d d d d
+322 19 6 1
+d d d d d d d d d d d d d d d d d d r r r r r r r r r r r r r r r r r r r
+400 12 11 0
+r r r r r r r r r r r r r s s s s s s s s s s s r s s s s s s r d d d d d d d d d d d d d d d d
+401 15 10 1
+r r r r r r r r r r r r r r s s s s s s s s s s s s s s r r r r r r r r r r r r r r r r r r r r r r
+440 13 9 1
+r r r r r r r r r r r r r r s s s s s s s s s s s s s s s s r r r r u u u u u u u u u u u u u u u u u u u
+441 20 11 0
+r r r r r r r r r r r r s s s s r s s s s s s r r r r r r r r r r r r r r r r r r r r r r r
+361 15 9 1
+r r r r r r r r r r r r r s s s s s s s s s s s s s s s r r r r r u u u u u u u u u u u u u u u u u u u
+362 17 9 1
+r r r r r r r r r r r r s s s s s s s s s s s s s s r r r r r r u u u u u u u u u u u u u u u u u u u
+402 19 9 1
+r r r r r r r r r r r s s s s s s s s s s s s s r r r r r r r u u u u u u u u u u u u u u u u u u u
+0 5 2 1
+u u u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u r r r r r r r r r r r r r r r r
+40 7 2 0
+u u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u r r r r r r r r r r r r r r r r
+1 9 2 0
+u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u r r r r r r r r r r r r r r r r
+82 10 2 0
+u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u r r r r r r r r r r r r r r r r
+2 12 2 0
+u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u r r r r r r r r r r r r r r r r
+41 27 1 1
+u u u u u u u u u u u u u u s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u
+3 13 0 0
+u u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u
+83 14 2 1
+u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u r r r r r r r r r r r r r r r r
+80 1 0 0
+u u u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u l l l l l l l l l l l l l l l l l l l
+81 8 2 1
+u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u u
+6 27 0 1
+u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u u
+4 22 2 0
+u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u r r r r r r r r r r r r r r r r
+7 45 0 0
+u u u u u u u u u u u s s u u u u u u u u u u u u u u u u u u u u u u u u u
+44 49 1 1
+u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u
+8 47 0 0
+u u u u u u u u u u s u u u u u u u u u l l l l l l l l l l l l l l l l l l l
+84 16 2 0
+u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u u u u u u u
+89 48 0 0
+u u u u u u u u u s u u u u u u u u u u l l l l l l l l l l l l l l l l l l l
+121 26 5 1
+l l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l u u u u u u u u u u u u u u u u
+122 36 5 0
+l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l u u u u u u u u u u u u u u u u
+202 10 5 0
+l l l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l
+120 14 3 1
+l l l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l
+207 44 5 0
+l l l l l l l l s s s s s s s s s s s s s s s s s s s s s l l l l l l l u u u u u u u u u u u u u u u u
+203 28 5 0
+l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l l l
+204 30 3 0
+l l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l d d d d d d d d d d d d d d d d d d d
+208 58 5 0
+l l l l l l l s s s s s s s s l l l l l l l l u u u u u u u u u u u u u u u u
+160 49 3 0
+l l l l l l l l l l l l s s s s s s s s s s s s l l l l l l d d d d d d d d d d d d d d d d d d d
+123 53 3 1
+l l l l l l l l l l l s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l l l l
+205 40 5 1
+l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l l l l l
+124 55 3 1
+l l l l l l l l l l s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l l l l l
+206 43 5 1
+l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l l l l l l
+125 57 3 0
+l l l l l l l l l s s s s s s s l l l l l l l l l d d d d d d d d d d d d d d d d d d d
+126 58 3 1
+l l l l l l l l s s s s s s s l l l l l l l l l l d d d d d d d d d d d d d d d d d d d
+128 72 5 0
+l l l l l l l l l l l l l l l u u u u u u u u u u u u u u u u
+240 37 8 1
+d d d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d l l l l l l l l l l l l l l l l
+241 38 8 0
+d d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d l l l l l l l l l l l l l l l l
+280 38 7 1
+d d d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d
+242 40 6 0
+d d d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d
+284 65 7 0
+d d d d d d d d d d d d d s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d d
+244 80 8 1
+d d d d d d d d d d d d d d d l l l l l l l l l l l l l l l l
+323 48 8 1
+d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d d d
+243 54 6 1
+d d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s d d d d d r r r r r r r r r r r r r r r r r r r
+285 67 7 1
+d d d d d d d d d d d d s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d d d
+281 55 6 1
+d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s d d d d d d r r r r r r r r r r r r r r r r r r r
+282 57 6 0
+d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s d d d d d d d r r r r r r r r r r r r r r r r r r r
+283 64 6 1
+d d d d d d d d d d s s s s s s s s s s s s s s d d d d d d d d r r r r r r r r r r r r r r r r r r r
+286 81 6 0
+d d d d d d d d d d d d d d d d d d r r r r r r r r r r r r r r r r r r r
+245 88 8 0
+d d d d d d d d d d d d d d d l l l l l l l l l l l l l l l l
+363 42 11 1
+r r r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r d d d d d d d d d d d d d d d d
+364 43 11 1
+r r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r d d d d d d d d d d d d d d d d
+403 44 11 0
+r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r d d d d d d d d d d d d d d d d
+404 77 11 1
+r r r r r r r r r r r s s s s s s s s s s s s s s s r r r r d d d d d d d d d d d d d d d d
+405 78 11 1
+r r r r r r r r r r s s s s s s s s s s s s s s s r r r r r d d d d d d d d d d d d d d d d
+365 79 11 0
+r r r r r r r r r s s s s s s s s s s s s s s s r r r r r r d d d d d d d d d d d d d d d d
+442 80 11 0
+r r r r r r r r s s s s s s s s s s s s s s s r r r r r r r d d d d d d d d d d d d d d d d
+443 81 11 0
+r r r r r r r s s s s s s s s s s s s s s s r r r r r r r r d d d d d d d d d d d d d d d d
+444 94 9 1
+r r r r r r r r r r r r r r r r r r u u u u u u u u u u u u u u u u u u u
+407 95 10 1
+r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r
+408 96 10 1
+r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r
+5 26 2 1
+u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u r r r r r r r r r r r r r r r r
+86 30 2 1
+u u u s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u r r r r r r r r r r r r r r r r
+42 32 2 0
+u u s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u r r r r r r r r r r r r r r r r
+43 45 2 1
+s s s s s s s s s s s s s u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u r r r r r r r r r r r r r r r r
+47 75 1 0
+u u u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u
+85 28 2 0
+u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u
+9 55 0 1
+u u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u
+48 76 1 1
+u u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u
+45 52 0 1
+u u u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u l l l l l l l l l l l l l l l l l l l
+46 60 2 1
+u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u r r r r r r r r r r r r r r r r
+50 88 1 0
+u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u u
+90 61 2 0
+u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u r r r r r r r r r r r r r r r r
+51 96 1 0
+u u u u u u u u u u u s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u u u
+87 43 2 1
+u s s s s s s s s s s s s s s u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u u u u
+91 65 0 1
+u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u l l l l l l l l l l l l l l l l l l l
+53 105 1 0
+u u u u u u u u u u s s s u u u u u u u u u u u u u u u u u u u u u u u u u u
+49 83 0 1
+u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u l l l l l l l l l l l l l l l l l l l
+88 59 2 1
+u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u u u u u u
+94 84 0 1
+u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u l l l l l l l l l l l l l l l l l l l
+97 94 0 0
+u u u u u u u u u s s s s s s s s s s s s s s s u u u u u u u u u u l l l l l l l l l l l l l l l l l l l
+12 105 0 0
+u u u u u u u u s s s s s u u u u u u u u u u u l l l l l l l l l l l l l l l l l l l
+209 78 5 1
+l l l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l u u u u u u u u u u u u u u u u
+210 80 5 0
+l l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l u u u u u u u u u u u u u u u u
+213 87 5 0
+l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l u u u u u u u u u u u u u u u u
+161 95 5 0
+l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l u u u u u u u u u u u u u u u u
+127 71 3 1
+l l l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l d d d d d d d d d d d d d d d d d d d
+129 73 3 1
+l l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l d d d d d d d d d d d d d d d d d d d
+130 74 3 1
+l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l l l
+135 126 5 0
+l l l l l l l l l l l l l l l u u u u u u u u u u u u u u u u
+131 76 3 1
+l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l d d d d d d d d d d d d d d d d d d d
+215 105 5 0
+l l l l l l l l l l s s s s s s s s s s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l l l l l
+211 81 3 1
+l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l d d d d d d d d d d d d d d d d d d d
+212 85 3 0
+l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l l d d d d d d d d d d d d d d d d d d d
+214 89 3 1
+l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l l l d d d d d d d d d d d d d d d d d d d
+132 101 3 1
+l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+287 91 8 1
+d d d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d l l l l l l l l l l l l l l l l
+288 93 8 1
+d d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d l l l l l l l l l l l l l l l l
+251 104 8 0
+d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d l l l l l l l l l l l l l l l l
+325 123 8 1
+d d d d d d d d d d d s s s s s s s s s s s s s s d d d d l l l l l l l l l l l l l l l l
+246 89 6 1
+d d d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d
+289 103 7 0
+d d d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d
+292 135 8 0
+d d d d d d d d d s s s s d d d d d d l l l l l l l l l l l l l l l l
+291 132 7 1
+d d d d d d d d d d d d d s s s d d d d d d d d d d d d d d d d d d d d d d d
+255 137 8 1
+d d d d d d d d s s s d d d d d d d l l l l l l l l l l l l l l l l
+247 91 6 1
+d d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d r r r r r r r r r r r r r r r r r r r
+248 94 6 0
+d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d d d
+257 140 8 1
+d d d d d d d s d d d d d d d d l l l l l l l l l l l l l l l l
+249 97 6 1
+d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d d d d
+326 125 8 1
+d d d d d d d d d d s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d d d d d
+250 102 6 1
+d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d r r r r r r r r r r r r r r r r r r r
+290 106 6 1
+d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d r r r r r r r r r r r r r r r r r r r
+293 140 7 1
+d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d
+252 108 6 0
+d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d r r r r r r r r r r r r r r r r r r r
+324 121 6 0
+d d d d d d d s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d r r r r r r r r r r r r r r r r r r r
+406 82 11 1
+r r r r r r s s s s s s s s s s s s s s s r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r d d d d d d d d d d d d d d d d
+366 84 11 1
+r r r r r s s s s s s s s s s s s s s r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r d d d d d d d d d d d d d d d d
+445 98 11 0
+r r r r s r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r d d d d d d d d d d d d d d d d
+447 103 11 0
+r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r d d d d d d d d d d d d d d d d
+409 109 10 1
+r r r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r r r r r r r r r r r r r r r r r r r
+446 101 9 0
+r r r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r u u u u u u u u u u u u u u u u u u u
+367 102 9 1
+r r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r r u u u u u u u u u u u u u u u u u u u
+368 103 9 1
+r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r r r u u u u u u u u u u u u u u u u u u u
+369 109 9 1
+r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r r r r r r r r r r r r r r r r r r r r r r
+295 157 8 0
+d d d d d d d d d d d d d d d l l l l l l l l l l l l l l l l
+448 113 11 0
+r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r r r r r r r r r r r r r r r r r r r r r r r
+370 126 9 0
+r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r r r r r r r r r r r r r r r r r r r r r r r
+449 128 11 0
+r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r r r r r r r r r r r r r r r r r r r r r r r r
+371 132 9 0
+r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s r r r r r r r r r u u u u u u u u u u u u u u u u u u u
+450 137 11 1
+r r r r r r r r s s s s s s s s s s s s s s s s s s r r r r r r r r r r r r r r r r r r r r r r r r r r r r
+372 133 9 1
+r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s r r r r r r r r r r u u u u u u u u u u u u u u u u u u u
+373 137 9 1
+r r r r r r r s s s s s s s s s s s s s s s s s s s r r r r r r r r r r r u u u u u u u u u u u u u u u u u u u
+298 163 8 0
+d d d d d d d d d d d d d d d l l l l l l l l l l l l l l l l
+10 78 2 0
+u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u r r r r r r r r r r r r r r r r
+95 84 2 1
+u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u r r r r r r r r r r r r r r r r
+92 77 2 0
+u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u
+11 92 2 1
+s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u r r r r r r r r r r r r r r r r
+13 116 0 1
+u u u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u
+55 134 1 0
+u u u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u
+52 119 2 1
+u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u r r r r r r r r r r r r r r r r
+56 138 1 1
+u u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u
+93 79 2 1
+u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u u
+98 120 2 0
+u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u r r r r r r r r r r r r r r r r
+54 121 2 0
+u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u r r r r r r r r r r r r r r r r
+99 132 0 0
+u u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u l l l l l l l l l l l l l l l l l l l
+14 146 0 1
+u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u u u
+96 87 2 1
+u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u u u u u u u u u u u u u u u u u u
+100 143 0 0
+u u u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s s s u u u u u u u l l l l l l l l l l l l l l l l l l l
+15 147 0 0
+u u u u u u u u u u s s s s s s s s s s s s s s s s s s s s s u u u u u u u u u l l l l l l l l l l l l l l l l l l l
+138 137 5 1
+l l l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l u u u u u u u u u u u u u u u u
+163 143 5 0
+l l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l u u u u u u u u u u u u u u u u
+218 144 5 1
+l l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l u u u u u u u u u u u u u u u u
+219 160 5 1
+l l l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s l l l l u u u u u u u u u u u u u u u u
+221 168 5 0
+l l l l l l l l l s s s s s s s s s s s s s s s s l l l l l l u u u u u u u u u u u u u u u u
+133 103 3 1
+l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l d d d d d d d d d d d d d d d d d d d
+164 182 5 1
+l l l l l l l l s s s l l l l l l l u u u u u u u u u u u u u u u u
+216 106 3 1
+l l l l l s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l d d d d d d d d d d d d d d d d d d d
+134 122 3 1
+l l l l s s s s s s s l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l l l
+217 126 3 0
+l l l s s s s l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l d d d d d d d d d d d d d d d d d d d
+136 127 3 0
+l l s s s s l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l l l l l
+220 166 5 0
+l l l l l l l l l l s s s s s s s s s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l l l l l
+162 133 3 0
+l l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l l d d d d d d d d d d d d d d d d d d d
+137 136 3 0
+l l l l l l l l s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+139 168 3 0
+l l l l l l l s s s s s s s s s s s s s s s s s s l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+222 186 5 0
+l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+327 183 8 0
+d d d d d d d d d d d d d d s s s s s s s s s s s d l l l l l l l l l l l l l l l l
+294 145 7 1
+d d d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d
+253 133 6 1
+d d d d d d s s s s s s s s s d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d r r r r r r r r r r r r r r r r r r r
+254 135 6 0
+d d d d d s s s s s s s s d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d d
+296 159 7 1
+d d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d d
+302 176 7 0
+d d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d d d
+256 139 6 0
+d d d d s s s s s d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d r r r r r r r r r r r r r r r r r r r
+297 161 6 1
+d d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d r r r r r r r r r r r r r r r r r r r
+299 166 6 1
+d d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d r r r r r r r r r r r r r r r r r r r
+258 169 6 0
+d d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d d d d d d
+300 170 6 1
+d d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d r r r r r r r r r r r r r r r r r r r
+259 171 6 0
+d d d d d d d s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s d d d d d d d d d d d d d d d d d d d d d d d d d d d d d
+411 168 11 1
+r r r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r d d d d d d d d d d d d d d d d
+374 181 11 0
+r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r d d d d d d d d d d d d d d d d
+456 204 11 1
+r r r r r r r r r r r s s s s s s s s r r r r d d d d d d d d d d d d d d d d
+410 160 10 1
+r r r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r r r r r r r r r r r r r r r r r r r
+451 170 11 0
+r r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r r r r r r r r r r r r r r r r r r r r
+452 179 9 1
+r r r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r u u u u u u u u u u u u u u u u u u u
+375 215 11 1
+r r r r r r r r r r r r r r r d d d d d d d d d d d d d d d d
+453 181 9 0
+r r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r r u u u u u u u u u u u u u u u u u u u
+454 182 9 1
+r r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s s s s s s s s s s s r r r r r r u u u u u u u u u u u u u u u u u u u
+455 193 9 0
+r r r r r r r r r r r s s s s s s s s s s s s s s s s s s s r r r r r r r u u u u u u u u u u u u u u u u u u u
+T
+0 1 2
+G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y
+3 4 5
+R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R
+6 7 8
+R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R
+9 10 11
+R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R G G G G G G G G Y Y Y Y Y Y Y R R R R R R R R R R R
