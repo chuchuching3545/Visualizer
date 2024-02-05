@@ -27,3 +27,8 @@ To get started with Visualizer, follow these simple steps:
 1. **Prepare Your Data:** Run your simulation in Python and save the results in a supported format (See result.txt).
 2. **Upload Data:** Navigate to the Visualizer on Unity Play and use the upload functionality to add your simulation data to the application.
 3. **Visualize:** With your data uploaded, initiate the visualization by pressing the `Start` button. You can pause and resume the visualization at any point to analyze specific details.
+
+## Notes during Development
+
+1. Please set the resolution as Full HD (1920 * 1080)
+2. Please use the scene called `ThreeLane.unity`
